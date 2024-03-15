@@ -3,6 +3,8 @@
 ## Description
 This repository hosts the WebSocket server for a real-time chat application, enabling users to interact in a community chat environment.
 
+Use this on the deployed version -> https://realtime-chat-app-frontend-qwmh.vercel.app/
+
 https://github.com/yashjain197/real_time_chat_backend/assets/56026073/8410c013-b7fe-46ed-929a-894624211750
 
 
