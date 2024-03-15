@@ -3,7 +3,7 @@ const http = require('http');
 const { setupWebSocketServer } = require('././config/websocket'); // Importing WebSocket setup function from websocket.js
 
 // Defining the port on which the server will listen
-const port = 8000;
+const port = process.env.PORT || 8000;
 
 // Creating an HTTP server instance
 const server = http.createServer();
