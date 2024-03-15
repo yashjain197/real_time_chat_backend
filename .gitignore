@@ -4,6 +4,8 @@ node_modules/
 # Environment variables file
 .env
 
+package-lock.json
+
 # Optional npm debug log file
 npm-debug.log
 
@@ -28,5 +30,3 @@ Thumbs.db
 .env.development.local
 .env.test.local
 .env.production.local
-
-package-lock.json
